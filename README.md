@@ -16,7 +16,7 @@
 
 Esse projeto é um jogo de plataforma feito em JavaScript,HTML5 Canvas e Node.js
 
--Video demonstrativo: <a href="https://drive.google.com/file/d/1VtrTMPPrcw0K3GftOfJk0SrORKumierj/view?usp=share_link" target="_blank"> Clique aqui </a>  
+- Video demonstrativo: <a href="https://drive.google.com/file/d/1VtrTMPPrcw0K3GftOfJk0SrORKumierj/view?usp=share_link" target="_blank"> Clique aqui </a>  
 
 
 ## 🚀 Linguagens
